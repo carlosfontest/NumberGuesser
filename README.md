@@ -1,4 +1,4 @@
-﻿# Number Guesser (Juego)
+﻿# Number Guesser (Juego) [JavaScript]
 
 ## ***Introducción***
 Juego simple que se base en adivinar un número entre el 1 y el 10, tienes 3 oportunidades para adivinarlo.
